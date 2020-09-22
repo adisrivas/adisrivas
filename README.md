@@ -9,6 +9,6 @@
 -->
 <h1 align="center"> Hi! I'm Aditya Srivastava 👋 </h1>
 <br/>
-<p> 🌱 I’m currently learning blockchain technology and container networking in virtual systems </p>
-<p> 💬 Ask me about: MERN stack</p>
+<li>🌱 I’m currently learning blockchain technology and container networking </li>
+<li>💬 Ask me about: JavaScript, MERN</li>
 <p align="center"><br/><br/><img src="https://github-readme-stats.vercel.app/api?username=adisrivas&show_icons=true" alt="adisrivas"></p><br/><br/>
